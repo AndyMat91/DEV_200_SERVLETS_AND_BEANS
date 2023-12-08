@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DEV_200_1_Network_Client_Data_storage_System:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>DEV_200_1_Network_Client_Data_storage_System_v1</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="DEV_200_1_Network_Client_Data_storage_System_v1-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="DEV_200_1_Network_Client_Data_storage_System:war exploded" />
+    </root>
+  </artifact>
+</component>
